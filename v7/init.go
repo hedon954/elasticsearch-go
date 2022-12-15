@@ -1,4 +1,4 @@
-package elasticsearch_go
+package elasticsearch
 
 import (
 	"github.com/hedon954/go-pkg/zap"
